@@ -1,6 +1,6 @@
 # </>iCode
 
-Netlify [Live website link](https://github.com/facebook/create-react-app).
+Netlify [Live website link](https://icode-shimanto.netlify.app/home).
 
 ## Description
 iCode is a online programming learning platform where one can start their Programming journey. Our team will provide full support and all the necessary instruction related to our courses through recorded and live classes. Happy Coding!
